@@ -1,10 +1,24 @@
-Hi, I'm Tristan Jay R. Alejandro 👋
+<h1>Hello, Welcome!</h1>
 
-Welcome to my GitHub! I'm a Bachelor of Science in Information Technology student passionate about web development, programming, and exploring new technologies. I enjoy building projects, solving problems, and learning through hands-on experience.
+<h2>Name</h2>
+<p><strong>Tristan Jay R. Alejandro</strong></p>
 
-Here, you'll find some of my personal and academic projects, experiments, and contributions. I’m always open to collaboration, learning, and sharing knowledge with the community.
+<h2>Education</h2>
+<ul>
+  <li>2nd Year Bachelor of Science in Information Technology Student</li>
+  <li>Currently studying at New Era University</li>
+</ul>
 
-💻 Languages & Tools: HTML, CSS, JavaScript, Python, SQL, Git, GitHub
-🌱 Currently Learning: Advanced web development, AI integration, and software development best practices
+<h2>Certifications</h2>
+<ul>
+  <li>
+    SQL and Relational Databases 101  
+    <a href="https://courses.cognitiveclass.ai/certificates/fc99e3edbe4d40efa427401fba8fbcb3">View Certificate</a>
+  </li>
+</ul>
 
-Let’s create something amazing! 🚀
+<h2>Skillsets</h2>
+<ul>
+  <li>UI/UX Design</li>
+  <li>HTML & CSS</li>
+</ul>

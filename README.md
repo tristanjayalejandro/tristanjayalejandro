@@ -1,24 +1,29 @@
-<h1>Hello, Welcome!</h1>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
-<h2>Name</h2>
+<h1><i class="fa-solid fa-hand-wave"></i> Hello, Welcome!</h1>
+
+<h2><i class="fa-solid fa-user"></i> Name</h2>
 <p><strong>Tristan Jay R. Alejandro</strong></p>
 
-<h2>Education</h2>
+<h2><i class="fa-solid fa-graduation-cap"></i> Education</h2>
 <ul>
-  <li>2nd Year Bachelor of Science in Information Technology Student</li>
+  <li>2nd Year Bachelor of Science in Information Technology Student (2023 – Present)</li>
   <li>Currently studying at New Era University</li>
 </ul>
 
-<h2>Certifications</h2>
+<h2><i class="fa-solid fa-certificate"></i> Certifications</h2>
 <ul>
-  <li>
-    SQL and Relational Databases 101  
-    <a href="https://courses.cognitiveclass.ai/certificates/fc99e3edbe4d40efa427401fba8fbcb3">View Certificate</a>
+  <li>  
+    <a href="https://courses.cognitiveclass.ai/certificates/3b6ae97544b942ccb257b91a5168f67d">
+      <i class="fa-solid fa-link"></i> SQL and Relational Databases 101
+    </a>
   </li>
 </ul>
 
-<h2>Skillsets</h2>
+<h2><i class="fa-solid fa-code"></i> Skillsets</h2>
 <ul>
-  <li>UI/UX Design</li>
-  <li>HTML & CSS</li>
+  <li><i class="fa-solid fa-pencil-ruler"></i> UI/UX Design</li>
+  <li><i class="fa-brands fa-html5"></i> HTML</li>
+  <li><i class="fa-brands fa-css3-alt"></i> CSS</li>
+  <li><i class="fa-solid fa-database"></i> SQL</li>
 </ul>

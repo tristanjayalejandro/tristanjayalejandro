@@ -1,17 +1,17 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
-<h1><i class="fa-solid fa-hand-wave"></i> Hello, Welcome!</h1>
+<h1><i class="fa-solid fa-hand-wave"></i> 👋🏿Hello, Welcome!</h1>
 
 <h2><i class="fa-solid fa-user"></i> Name</h2>
 <p><strong>Tristan Jay R. Alejandro</strong></p>
 
-<h2><i class="fa-solid fa-graduation-cap"></i> Education</h2>
+<h2><i class="fa-solid fa-graduation-cap"></i> 📚 Education</h2>
 <ul>
   <li>2nd Year Bachelor of Science in Information Technology Student (2023 – Present)</li>
   <li>Currently studying at New Era University</li>
 </ul>
 
-<h2><i class="fa-solid fa-certificate"></i> Certifications</h2>
+<h2><i class="fa-solid fa-certificate"></i>📄 Certifications</h2>
 <ul>
   <li>  
     <a href="https://courses.cognitiveclass.ai/certificates/3b6ae97544b942ccb257b91a5168f67d">
@@ -20,7 +20,7 @@
   </li>
 </ul>
 
-<h2><i class="fa-solid fa-code"></i> Skillsets</h2>
+<h2><i class="fa-solid fa-code"></i> 🖥️Skillsets</h2>
 <ul>
   <li><i class="fa-solid fa-pencil-ruler"></i> UI/UX Design</li>
   <li><i class="fa-brands fa-html5"></i> HTML</li>

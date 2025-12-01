@@ -14,7 +14,7 @@
 <h2><i class="fa-solid fa-certificate"></i>📄 Certifications</h2>
 <ul>
   <li>  
-    <a href="https://courses.cognitiveclass.ai/certificates/3b6ae97544b942ccb257b91a5168f67d">
+    <a href="https://courses.cognitiveclass.ai/certificates/fc99e3edbe4d40efa427401fba8fbcb3">
       <i class="fa-solid fa-link"></i> SQL and Relational Databases 101
     </a>
   </li>
